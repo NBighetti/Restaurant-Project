@@ -1,4 +1,4 @@
-body {
+body{
   background-color: lightblue;
 }
 
@@ -8,6 +8,7 @@ body {
 .party-selected{
   background-color: pink;
 }
+
 .interface-list{
   display: inline-block;
   border: 1px solid black;
