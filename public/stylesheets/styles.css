@@ -6,15 +6,32 @@ html {
   background-size: cover;
   font-family: 'Open Sans', sans-serif;
 }
+.restapp{
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+}
 .food-selected{
-  background-color: lightgreen;
+  background-color: gray;
+}
+.food{
+  list-style-type: none;
 }
 .party-selected{
-  background-color: pink;
+  background-color: gray;
+}
+.party{
+  list-style-type: none;
 }
 .interface-list{
-  border: 2px solid black;
+  border: 5px solid gray;
+  padding: 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+h1{
+  font-size: 1.5em;
 }
 h2{
-  font-size: 2em;
+  font-size: 1.5em;
 }

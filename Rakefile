@@ -14,8 +14,6 @@ require './models/food'
 require './models/order'
 require './models/user'
 
-
-
 namespace :db do
 
   desc "Create Admin User"
